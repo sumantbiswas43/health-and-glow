@@ -1,19 +1,15 @@
-import Navbar from './components/Navbar';
-import Carousel from './components/Carousel';
-import Footer from './components/Footer';
-import ProductCard from './components/ProductCard';
+import Navbar from "./components/Navbar";
+import Carousel from "./components/Carousel";
+import Footer from "./components/Footer";
+import Offers from "./components/Offers";
 
 function App() {
   return (
-    <div className="App">
+    <div className='App'>
       <Navbar />
-      <Carousel/>
-      <div className="d-flex justify-content-center mt-5">
-      <ProductCard />
-      <ProductCard />
-      <ProductCard />
-      </div>
-      <Footer/>
+      <Carousel />
+      <Offers />
+      <Footer />
     </div>
   );
 }

@@ -1,0 +1,33 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "url": "https://ik.imagekit.io/hng/banners/Desktop_6609_1638355541291.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://ik.imagekit.io/hng/banners/Desktop_6759_1638334176224.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://ik.imagekit.io/hng/banners/Desktop_7260_1638334106523.jpg"
+    }
+  ],
+  "Offers": [
+    {
+      "img": "https://ik.imagekit.io/hng/plp/529497_1.jpg?v=0",
+      "name": "Body lotion",
+      "discount": "25%"
+    },
+    {
+      "img": "https://ik.imagekit.io/hng/plp/555493_1.jpg?v=0",
+      "name": "Hair Mask",
+      "discount": "50%"
+    },
+    {
+      "img": "https://ik.imagekit.io/hng/plp/555492_1.jpg?v=0",
+      "name": "Hair Spray",
+      "discount": "33%"
+    }
+  ]
+}
